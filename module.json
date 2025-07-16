@@ -2,7 +2,16 @@
   "id": "update-notification-remover",
   "title": "Update Notification Remover",
   "version": "1.0.0",
+  "authors": [
+    {
+      "id": "SurrenderMaine",
+      "url": "https://github.com/SurrenderMaine"
+    }
+  ],
   "styles": ["style.css"],
+  "readme": "https://raw.githubusercontent.com/SurrenderMaine/update-notification-remover/refs/heads/main/README.md",
+  "manifest": "https://raw.githubusercontent.com/SurrenderMaine/update-notification-remover/refs/heads/main/module.json",
+  "download": "https://github.com/SurrenderMaine/update-notification-remover/releases/download/v1.0.0/update-notification-remover-1.0.0.zip",
   "compatibility": {
     "minimum": "12.331",
     "verified": "12.331"
