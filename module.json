@@ -10,7 +10,7 @@
   ],
   "styles": ["style.css"],
   "readme": "https://raw.githubusercontent.com/SurrenderMaine/update-notification-remover/refs/heads/main/README.md",
-  "manifest": "https://raw.githubusercontent.com/SurrenderMaine/update-notification-remover/refs/heads/main/module.json",
+  "manifest": "https://https://github.com/SurrenderMaine/update-notification-remover/releases/latest/download/module.json",
   "download": "https://github.com/SurrenderMaine/update-notification-remover/releases/download/v1.0.0/update-notification-remover.zip",
   "compatibility": {
     "minimum": "12.331",
