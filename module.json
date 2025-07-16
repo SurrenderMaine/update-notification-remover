@@ -1,0 +1,11 @@
+{
+  "id": "update-notification-remover",
+  "title": "Update Notification Remover",
+  "version": "1.0.0",
+  "styles": ["style.css"],
+  "compatibility": {
+    "minimum": "12.331",
+    "verified": "12.331"
+  },
+  "description": "A very simple module that just removes the settings notification that you need to update your version of Foundry or your system."
+}
